@@ -1,5 +1,7 @@
 # d3-path
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-path)](https://dev.azure.com/d3/d3/_build/definition?definitionId=20)
+
 Say you have some code that draws to a 2D canvas:
 
 ```js
